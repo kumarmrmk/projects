@@ -26,4 +26,10 @@ while True:
         break
     else:
         pyttsx3.speak("sorry something went wrong, try again")
+
+
+
+
+
+        # in process
 	 
